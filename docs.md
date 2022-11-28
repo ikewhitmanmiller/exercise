@@ -1,3 +1,3 @@
 Welcome to the documentation for your Huge Doomsday Laser!
 
-Thank you for purchasing your Huge Doomsday Laser! Remember to shoot lasers responsibly. Doomsday Corp is not responsible for any negative effects of any lasers, including death, dismemberment, scalding, blowing up New York City, erradicating all ants, etc.
+Thank you for purchasing your Huge Doomsday Laser! Remember to shoot lasers responsibly. Doomsday Corp is not responsible for the negative effects of any lasers, including death, dismemberment, scalding, blowing up New York City, erradicating all ants, etc.
